@@ -1,0 +1,12 @@
+{
+  "export_job_id": "bf275616-67aa-4559-b7e3-fb2459e3206d",
+  "id_short": 874814,
+  "published_at": "2026-04-15T08:03:08Z",
+  "repo_name": "the-hhi-monopoly-index-for-kentucky-us-sample-874814",
+  "sample_asset_name": "beamstation_874814_restaurants-us-ky_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/874814/beamstation_874814_restaurants-us-ky_SAMPLE_DIST.csv",
+  "sample_records": 35,
+  "sample_sha256": "d9252ee2facdecdb55a60f9a134ffba263c3905c62fed30b7f37f0db6f6f32ac",
+  "sample_size_bytes": 154357,
+  "total_records": 312
+}
