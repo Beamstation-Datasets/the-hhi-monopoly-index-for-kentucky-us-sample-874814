@@ -9,9 +9,9 @@
 | Dataset ID | `874814` |
 | Location | Kentucky |
 | Category | Restaurants |
-| Full dataset size | 312 records |
-| Free sample size | 35 records (11.22%) |
-| Last export | 2026-04-01T00:11:34.502658+00:00 |
+| Full dataset size | 353 records |
+| Free sample size | 35 records (9.92%) |
+| Last export | 2026-04-15T01:52:39.104855+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-kentucky-us-sample-874814/releases/download/sample-latest/beamstation_874814_restaurants-us-ky_SAMPLE_DIST.csv) |
 
 ## What is in this sample
