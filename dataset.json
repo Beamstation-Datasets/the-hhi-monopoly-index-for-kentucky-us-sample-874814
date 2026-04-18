@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
   "config_name": "The HHI Monopoly Index for Kentucky, US",
-  "export_job_id": "bf275616-67aa-4559-b7e3-fb2459e3206d",
+  "export_job_id": "e37e4451-293d-4df8-b4ad-93d6dfed3d9a",
   "github_org": "Beamstation-Datasets",
   "id_short": 874814,
   "location_name": "Kentucky",
   "location_type": "state",
   "repo_name": "the-hhi-monopoly-index-for-kentucky-us-sample-874814",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/874814/beamstation_874814_restaurants-us-ky_SAMPLE_DIST.csv",
-  "sample_pct": 11.22,
+  "sample_pct": 9.92,
   "sample_records": 35,
   "sample_sha256": "d9252ee2facdecdb55a60f9a134ffba263c3905c62fed30b7f37f0db6f6f32ac",
   "sample_size_bytes": 154357,
-  "total_records": 312,
-  "updated_at": "2026-04-01T00:11:34.502658+00:00"
+  "total_records": 353,
+  "updated_at": "2026-04-15T01:52:39.104855+00:00"
 }
