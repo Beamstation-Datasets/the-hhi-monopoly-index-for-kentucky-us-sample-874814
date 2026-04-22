@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Kentucky, US
 
-> Free BeamStation sample export with 35 rows and masked direct-contact fields.
+> Free BeamStation sample export with 37 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `874814` |
 | Location | Kentucky |
 | Category | Restaurants |
-| Full dataset size | 353 records |
-| Free sample size | 35 records (9.92%) |
-| Last export | 2026-04-15T01:52:39.104855+00:00 |
+| Full dataset size | 379 records |
+| Free sample size | 37 records (9.76%) |
+| Last export | 2026-04-22T06:36:47.334492+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-kentucky-us-sample-874814/releases/download/sample-latest/beamstation_874814_restaurants-us-ky_SAMPLE_DIST.csv) |
 
 ## What is in this sample
